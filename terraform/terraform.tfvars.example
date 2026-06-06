@@ -1,0 +1,7 @@
+project_id = "my-gcp-project-id"
+
+# Optional overrides — defaults match the brief.
+# region             = "europe-west9"
+# schedule           = "*/5 9-18 * * 1-5"
+# schedule_time_zone = "Europe/Paris"
+# status_emoji       = ":brain:"
